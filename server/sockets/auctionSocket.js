@@ -399,7 +399,6 @@ const startAuctionCore = async ({ io, roomId, timerSeconds, accelerated, acceler
 
 const toPrice = (value) => Math.round(value * 100) / 100;
 
-const startBidTimer = async ({ io, roomId, reset, preCalculatedTimer }) => {
   const room = await getRoom(roomId);
   if (!room) return;
 
@@ -834,7 +833,7 @@ const moveToNextPlayer = async ({ io, roomId }) => {
   roomSetIntroTimers.set(roomId, timerId);
 };
 
-const closeCurrentPlayer = ({ io, roomId }) => {
+const closeCurrentPlayer = async({ io, roomId }) => {
   const room = getRoom(roomId);
   if (!room || room.auctionState.status !== "RUNNING") return;
 
@@ -988,7 +987,7 @@ const closeCurrentPlayer = ({ io, roomId }) => {
   
   await emitTeamUpdate({ io, roomId });
 
-  await clearRoomTimer(roomId);
+  clearRoomTimer(roomId);
   const timerId = setTimeout(async () => {
     roomDelayTimers.delete(roomId);
     const activeRoom = await getRoom(roomId);
