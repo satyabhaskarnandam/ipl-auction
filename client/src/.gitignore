@@ -1,0 +1,8 @@
+node_modules
+**/node_modules
+client/build
+build
+.env
+.env.local
+dist
+coverage
