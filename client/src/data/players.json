@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Mitchell Starc",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "Fast Bowler",
+    "country": "Australia"
+  },
+  {
+    "name": "Ben Stokes",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "All-rounder",
+    "country": "England"
+  },
+  {
+    "name": "Travis Head",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "Batsman",
+    "country": "Australia"
+  },
+  {
+    "name": "Andre Russell",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "All-rounder",
+    "country": "West Indies"
+  },
+  {
+    "name": "David Warner",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "Batsman",
+    "country": "Australia"
+  },
+  {
+    "name": "Arshdeep Singh",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "Fast Bowler",
+    "country": "India"
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "Batsman",
+    "country": "India"
+  },
+  {
+    "name": "Pat Cummins",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "Fast Bowler",
+    "country": "Australia"
+  },
+  {
+    "name": "Cameron Green",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "All-rounder",
+    "country": "Australia"
+  },
+  {
+    "name": "Phil Salt",
+    "basePrice": 2,
+    "set": "Marquee Players",
+    "role": "Wicketkeeper",
+    "country": "England"
+  }
+]

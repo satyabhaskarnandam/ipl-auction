@@ -1,0 +1,159 @@
+Cheteshwar Pujara	India	Batsman	Capped	0.75
+Ajinkya Rahane	India	Batsman	Capped	0.75
+Hanuma Vihari	India	Batsman	Capped	0.5
+Karun Nair	India	Batsman	Capped	0.5
+Manish Pandey	India	Batsman	Capped	0.75
+Mayank Agarwal	India	Batsman	Capped	0.75
+Devdutt Padikkal	India	Batsman	Capped	1
+Priyan Garg	India	Batsman	Capped	0.3
+Mahipal Lomror	India	Batsman	Capped	0.3
+Sarfaraz Khan	India	Batsman	Capped	0.75
+Yash Dhull	India	Batsman	Capped	0.3
+Ricky Bhui	India	Batsman	Capped	0.2
+Baba Indrajith	India	Batsman	Capped	0.2
+Baba Aparajith	India	Batsman	Capped	0.2
+Prithvi Shaw	India	Batsman	Capped	0.75
+Bhuvneshwar Kumar	India	Bowler	Capped	1
+Umesh Yadav	India	Bowler	Capped	0.75
+Jaydev Unadkat	India	Bowler	Capped	0.5
+Chetan Sakariya	India	Bowler	Capped	0.5
+Navdeep Saini	India	Bowler	Capped	0.5
+Sandeep Sharma	India	Bowler	Capped	0.5
+Khaleel Ahmed	India	Bowler	Capped	0.5
+Jayant Yadav	India	Bowler	Capped	0.5
+Rahul Chahar	India	Bowler	Capped	0.75
+Karn Sharma	India	Bowler	Capped	0.3
+Murugan Ashwin	India	Bowler	Capped	0.3
+Shahbaz Ahmed	India	All-rounder	Capped	0.5
+Krunal Pandya	India	All-rounder	Capped	1
+Venkatesh Iyer	India	All-rounder	Capped	1
+Deepak Hooda	India	All-rounder	Capped	0.75
+Riyan Parag	India	All-rounder	Capped	0.75
+Kedar Jadhav	India	All-rounder	Capped	0.5
+Sheldon Jackson	India	Wicketkeeper	Capped	0.2
+Upendra Yadav	India	Wicketkeeper	Capped	0.2
+Ben Duckett	England	Batsman	Capped	1
+Rehan Ahmed	England	Bowler	Capped	0.75
+Gus Atkinson	England	Bowler	Capped	0.75
+Brydon Carse	England	Bowler	Capped	0.5
+Matthew Short	Australia	All-rounder	Capped	0.75
+Aaron Hardie	Australia	All-rounder	Capped	0.5
+Nathan McSweeney	Australia	Batsman	Capped	0.3
+Lance Morris	Australia	Bowler	Capped	0.5
+Xavier Bartlett	Australia	Bowler	Capped	0.5
+Finn Allen	New Zealand	Batsman	Capped	0.75
+Will Young	New Zealand	Batsman	Capped	0.75
+Henry Nicholls	New Zealand	Batsman	Capped	0.5
+Adam Milne	New Zealand	Bowler	Capped	0.75
+Rilee Rossouw	South Africa	Batsman	Capped	1
+Lizaad Williams	South Africa	Bowler	Capped	0.5
+Ottniel Baartman	South Africa	Bowler	Capped	0.3
+Jason Roy	England	Batsman	Capped	1
+Tom Banton	England	Wicketkeeper	Capped	0.5
+Rovman Powell	West Indies	Batsman	Capped	0.75
+Sherfane Rutherford	West Indies	Batsman	Capped	0.5
+Oshane Thomas	West Indies	Bowler	Capped	0.5
+Dunith Wellalage	Sri Lanka	All-rounder	Capped	0.75
+Sadeera Samarawickrama	Sri Lanka	Wicketkeeper	Capped	0.75
+Kamindu Mendis	Sri Lanka	All-rounder	Capped	0.5
+Tanzid Hasan	Bangladesh	Batsman	Capped	0.3
+Hasan Mahmud	Bangladesh	Bowler	Capped	0.5
+Najibullah Zadran	Afghanistan	Batsman	Capped	0.5
+Michael Leask	Scotland	All-rounder	Capped	0.2
+Mark Watt	Scotland	Bowler	Capped	0.2
+Chris Greaves	Scotland	All-rounder	Capped	0.2
+Kushal Bhurtel	Nepal	Batsman	Capped	0.2
+Dipendra Singh Airee	Nepal	All-rounder	Capped	0.2
+Vriitya Aravind	UAE	Wicketkeeper	Capped	0.2
+Rohan Mustafa	UAE	All-rounder	Capped	0.2
+Basil Hameed	UAE	Batsman	Capped	0.2
+Zeeshan Maqsood	Oman	All-rounder	Capped	0.2
+Kashif Daud	Oman	All-rounder	Capped	0.2
+Karan KC	Nepal	Bowler	Capped	0.2
+Sompal Kami	Nepal	Bowler	Capped	0.2
+Aqib Ilyas	Oman	Batsman	Capped	0.2
+Muhammad Waseem	UAE	Batsman	Capped	0.2
+Assad Vala	Papua New Guinea	Batsman	Capped	0.2
+Tony Ura	Papua New Guinea	Batsman	Capped	0.2
+Norman Vanua	Papua New Guinea	Bowler	Capped	0.2
+Richmond Baaleri	Ghana	All-rounder	Capped	0.2
+Samson Awiah	Ghana	Batsman	Capped	0.2
+Aaron Jones	USA	Batsman	Capped	0.2
+Steven Taylor	USA	Batsman	Capped	0.2
+Saurabh Netravalkar	USA	Bowler	Capped	0.2
+Ali Khan	USA	Bowler	Capped	0.2
+Gerhard Erasmus	Namibia	Batsman	Capped	0.2
+JJ Smit	Namibia	All-rounder	Capped	0.2
+Bernard Scholtz	Namibia	Bowler	Capped	0.2
+Ruben Trumpelmann	Namibia	Bowler	Capped	0.2
+Kyle Coetzer	Scotland	Batsman	Capped	0.2
+Calum MacLeod	Scotland	Batsman	Capped	0.2
+Richie Berrington	Scotland	Batsman	Capped	0.2
+Matthew Cross	Scotland	Wicketkeeper	Capped	0.2
+George Munsey	Scotland	Batsman	Capped	0.2
+Craig Young	Ireland	Bowler	Capped	0.2
+Barry McCarthy	Ireland	Bowler	Capped	0.2
+Curtis Campher	Ireland	All-rounder	Capped	0.3
+Simi Singh	Ireland	All-rounder	Capped	0.2
+Andy Balbirnie	Ireland	Batsman	Capped	0.3
+Paul Stirling	Ireland	Batsman	Capped	0.3
+Harry Tector	Ireland	Batsman	Capped	0.3
+Lorcan Tucker	Ireland	Wicketkeeper	Capped	0.2
+Gareth Delany	Ireland	All-rounder	Capped	0.2
+Joshua Little	Ireland	Bowler	Capped	0.3
+Mark Adair	Ireland	Bowler	Capped	0.3
+Tendai Chatara	Zimbabwe	Bowler	Capped	0.2
+Blessing Muzarabani	Zimbabwe	Bowler	Capped	0.2
+Richard Ngarava	Zimbabwe	Bowler	Capped	0.2
+Wesley Madhevere	Zimbabwe	All-rounder	Capped	0.2
+Sikandar Raza	Zimbabwe	Batsman	Capped	0.75
+Sean Williams	Zimbabwe	Batsman	Capped	0.3
+Craig Ervine	Zimbabwe	Batsman	Capped	0.3
+Innocent Kaia	Zimbabwe	Batsman	Capped	0.2
+Clive Madande	Zimbabwe	Wicketkeeper	Capped	0.2
+Ryan Burl	Zimbabwe	All-rounder	Capped	0.2
+Kusal Perera	Sri Lanka	Wicketkeeper	Capped	0.75
+Dhananjaya de Silva	Sri Lanka	Batsman	Capped	0.75
+Angelo Mathews	Sri Lanka	All-rounder	Capped	1
+Dimuth Karunaratne	Sri Lanka	Batsman	Capped	0.75
+Kusal Mendis	Sri Lanka	Batsman	Capped	0.75
+Dasun Shanaka	Sri Lanka	All-rounder	Capped	0.75
+Lahiru Kumara	Sri Lanka	Bowler	Capped	0.5
+Suranga Lakmal	Sri Lanka	Bowler	Capped	0.5
+Nuwan Pradeep	Sri Lanka	Bowler	Capped	0.3
+Mohammad Nabi	Afghanistan	All-rounder	Capped	1
+Rahmanullah Gurbaz	Afghanistan	Wicketkeeper	Capped	1
+Naveen-ul-Haq	Afghanistan	Bowler	Capped	0.75
+Noor Ahmad	Afghanistan	Bowler	Capped	0.75
+Mujeeb Ur Rahman	Afghanistan	Bowler	Capped	1
+Fazalhaq Farooqi	Afghanistan	Bowler	Capped	0.75
+Azmatullah Omarzai	Afghanistan	All-rounder	Capped	0.75
+Ibrahim Zadran	Afghanistan	Batsman	Capped	0.75
+Rahmat Shah	Afghanistan	Batsman	Capped	0.5
+Hashmatullah Shahidi	Afghanistan	Batsman	Capped	0.5
+Gulbadin Naib	Afghanistan	All-rounder	Capped	0.3
+Kyle Mayers	West Indies	All-rounder	Capped	1
+Akeal Hosein	West Indies	Bowler	Capped	0.75
+Alzarri Joseph	West Indies	Bowler	Capped	1
+Jason Holder	West Indies	Bowler	Capped	1
+Obed McCoy	West Indies	Bowler	Capped	0.5
+Romario Shepherd	West Indies	Bowler	Capped	0.75
+Gudakesh Motie	West Indies	Bowler	Capped	0.5
+Keemo Paul	West Indies	All-rounder	Capped	0.5
+Fabian Allen	West Indies	All-rounder	Capped	0.5
+Evin Lewis	West Indies	Batsman	Capped	0.75
+Johnson Charles	West Indies	Batsman	Capped	0.5
+Darren Bravo	West Indies	Batsman	Capped	0.5
+Shai Hope	West Indies	Wicketkeeper	Capped	1
+Nicholas Pooran	West Indies	Batsman	Capped	1.5
+Hayden Walsh	West Indies	Bowler	Capped	0.3
+Jayden Seales	West Indies	Bowler	Capped	0.5
+Joshua Da Silva	West Indies	Wicketkeeper	Capped	0.3
+Wriddhiman Saha	India	Wicketkeeper	Capped	0.5
+Ambati Rayudu	India	Batsman	Capped	0.75
+Shikhar Dhawan	India	Batsman	Capped	1.25
+Ishan Porel	India	Bowler	Capped	0.3
+Arshad Khan	India	Bowler	Capped	0.2
+Akash Deep	India	Bowler	Capped	0.2
+Umran Malik	India	Bowler	Capped	0.5
+Arjun Tendulkar	India	All-rounder	Capped	0.2
